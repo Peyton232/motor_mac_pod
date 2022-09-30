@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version          = '0.0.1'
   s.summary          = 'The Sonr MotorMac.xcframework'
   s.author           = { 'Prad Nukala' => 'prad@sonr.io' }
-  s.source           = { :git => 'https://github.com/sonr-io/motor_pod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sonr-io/motor_mac_pod.git', :tag => s.version.to_s }
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
