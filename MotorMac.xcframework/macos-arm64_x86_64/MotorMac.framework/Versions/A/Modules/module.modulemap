@@ -1,0 +1,8 @@
+framework module "MotorMac" {
+	header "ref.h"
+    header "SNRMotor.objc.h"
+    header "Universe.objc.h"
+    header "MotorMac.h"
+
+    export *
+}
