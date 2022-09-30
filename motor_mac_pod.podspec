@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
 
 
-  s.ios.deployment_target = '13.0'
+  s.macos.deployment_target = '12.0'
   s.swift_version = "5.0"
   s.public_header_files = "MotorMac.xcframework/**/Headers/*.h"
   s.source_files = "MotorMac.xcframework/**/*.{h,m,swift}"
