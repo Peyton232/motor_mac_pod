@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'motor_mac_pod'
-  s.version          = '1.0.0'
+  s.version          = '2.0.0'
   s.summary          = 'The Sonr MotorMac.xcframework'
   s.author           = { 'Prad Nukala' => 'prad@sonr.io' }
   s.source           = { :git => 'https://github.com/sonr-io/motor_mac_pod.git', :tag => s.version.to_s }
